@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ресурсы/Изображения/equals.png</file>
+    </qresource>
+</RCC>
